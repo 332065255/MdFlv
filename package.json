@@ -1,0 +1,24 @@
+{
+  "name": "mdflv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://332065255@github.com/332065255/MdFlv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/332065255/MdFlv/issues"
+  },
+  "homepage": "https://github.com/332065255/MdFlv#readme",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
